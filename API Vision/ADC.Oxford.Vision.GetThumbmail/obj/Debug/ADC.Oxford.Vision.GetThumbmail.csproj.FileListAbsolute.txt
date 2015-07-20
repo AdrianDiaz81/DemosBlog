@@ -1,0 +1,12 @@
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.GetThumbmail\bin\Debug\ADC.Oxford.Vision.GetThumbmail.exe.config
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.GetThumbmail\bin\Debug\ADC.Oxford.Vision.GetThumbmail.exe
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.GetThumbmail\bin\Debug\ADC.Oxford.Vision.GetThumbmail.pdb
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.GetThumbmail\bin\Debug\ADC.Oxford.Vision.AnalyzeImage.dll
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.GetThumbmail\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.GetThumbmail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.GetThumbmail\bin\Debug\ADC.Oxford.Vision.AnalyzeImage.pdb
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.GetThumbmail\bin\Debug\Microsoft.ProjectOxford.Vision.pdb
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.GetThumbmail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.GetThumbmail\obj\Debug\ADC.Oxford.Vision.GetThumbmail.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.GetThumbmail\obj\Debug\ADC.Oxford.Vision.GetThumbmail.exe
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.GetThumbmail\obj\Debug\ADC.Oxford.Vision.GetThumbmail.pdb

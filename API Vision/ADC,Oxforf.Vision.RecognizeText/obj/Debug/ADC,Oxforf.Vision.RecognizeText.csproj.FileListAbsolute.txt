@@ -1,0 +1,12 @@
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC,Oxforf.Vision.RecognizeText\obj\Debug\ADC,Oxforf.Vision.RecognizeText.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC,Oxforf.Vision.RecognizeText\bin\Debug\ADC,Oxforf.Vision.RecognizeText.exe.config
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC,Oxforf.Vision.RecognizeText\bin\Debug\ADC,Oxforf.Vision.RecognizeText.exe
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC,Oxforf.Vision.RecognizeText\bin\Debug\ADC,Oxforf.Vision.RecognizeText.pdb
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC,Oxforf.Vision.RecognizeText\bin\Debug\ADC.Oxford.Vision.AnalyzeImage.dll
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC,Oxforf.Vision.RecognizeText\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC,Oxforf.Vision.RecognizeText\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC,Oxforf.Vision.RecognizeText\bin\Debug\ADC.Oxford.Vision.AnalyzeImage.pdb
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC,Oxforf.Vision.RecognizeText\bin\Debug\Microsoft.ProjectOxford.Vision.pdb
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC,Oxforf.Vision.RecognizeText\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC,Oxforf.Vision.RecognizeText\obj\Debug\ADC,Oxforf.Vision.RecognizeText.exe
+C:\Users\Adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC,Oxforf.Vision.RecognizeText\obj\Debug\ADC,Oxforf.Vision.RecognizeText.pdb

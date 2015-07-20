@@ -1,0 +1,6 @@
+C:\GitHub\DemosBlog\API Vision\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\GitHub\DemosBlog\API Vision\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.Vision.pdb
+C:\GitHub\DemosBlog\API Vision\ClientLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\DemosBlog\API Vision\ClientLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\DemosBlog\API Vision\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\GitHub\DemosBlog\API Vision\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.Vision.pdb

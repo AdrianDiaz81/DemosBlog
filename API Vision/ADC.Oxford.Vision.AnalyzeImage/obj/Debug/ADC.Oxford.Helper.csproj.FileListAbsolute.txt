@@ -1,0 +1,9 @@
+c:\users\adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.AnalyzeImage\bin\Debug\ADC.Oxford.Vision.AnalyzeImage.dll
+c:\users\adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.AnalyzeImage\bin\Debug\ADC.Oxford.Vision.AnalyzeImage.pdb
+c:\users\adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.AnalyzeImage\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+c:\users\adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.AnalyzeImage\bin\Debug\Newtonsoft.Json.dll
+c:\users\adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.AnalyzeImage\bin\Debug\Microsoft.ProjectOxford.Vision.pdb
+c:\users\adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.AnalyzeImage\bin\Debug\Newtonsoft.Json.xml
+c:\users\adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.AnalyzeImage\obj\Debug\ADC.Oxford.Helper.csprojResolveAssemblyReference.cache
+c:\users\adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.AnalyzeImage\obj\Debug\ADC.Oxford.Vision.AnalyzeImage.dll
+c:\users\adrian\documents\visual studio 2013\Projects\ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Vision.AnalyzeImage\obj\Debug\ADC.Oxford.Vision.AnalyzeImage.pdb

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADC.Oxford.Helper", "ADC.Oxford.Vision.AnalyzeImage\ADC.Oxford.Helper.csproj", "{32886AAC-D4EE-4340-BD32-CEE930AC0DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.ProjectOxford.Vision", "..\..\..\..\..\..\GitHub\DemosBlog\API Vision\ClientLibrary\Microsoft.ProjectOxford.Vision.csproj", "{555D2260-8472-476A-8619-3654367C4DB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADC.Oxford.Vision.Analyze", "ADC.Oxford.Vision.Analyze\ADC.Oxford.Vision.Analyze.csproj", "{16DEE11E-74D4-481F-8591-A086E4168300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADC,Oxforf.Vision.RecognizeText", "ADC,Oxforf.Vision.RecognizeText\ADC,Oxforf.Vision.RecognizeText.csproj", "{92826B42-D97C-4D9A-8980-DA176D3B8D06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADC.Oxford.Vision.GetThumbmail", "ADC.Oxford.Vision.GetThumbmail\ADC.Oxford.Vision.GetThumbmail.csproj", "{4C9A0E7F-97A9-485F-B524-16CFF837181C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32886AAC-D4EE-4340-BD32-CEE930AC0DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32886AAC-D4EE-4340-BD32-CEE930AC0DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32886AAC-D4EE-4340-BD32-CEE930AC0DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32886AAC-D4EE-4340-BD32-CEE930AC0DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555D2260-8472-476A-8619-3654367C4DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555D2260-8472-476A-8619-3654367C4DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555D2260-8472-476A-8619-3654367C4DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555D2260-8472-476A-8619-3654367C4DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16DEE11E-74D4-481F-8591-A086E4168300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DEE11E-74D4-481F-8591-A086E4168300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DEE11E-74D4-481F-8591-A086E4168300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DEE11E-74D4-481F-8591-A086E4168300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92826B42-D97C-4D9A-8980-DA176D3B8D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92826B42-D97C-4D9A-8980-DA176D3B8D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92826B42-D97C-4D9A-8980-DA176D3B8D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92826B42-D97C-4D9A-8980-DA176D3B8D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9A0E7F-97A9-485F-B524-16CFF837181C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9A0E7F-97A9-485F-B524-16CFF837181C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9A0E7F-97A9-485F-B524-16CFF837181C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9A0E7F-97A9-485F-B524-16CFF837181C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
