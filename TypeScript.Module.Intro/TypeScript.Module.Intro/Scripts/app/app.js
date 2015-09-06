@@ -1,6 +1,11 @@
-define(["require", "exports", "person"], function (require, exports, person) {
+define(["require", "exports", "person", "jquery", "mustache"], function (require, exports, person, jquery, mustache) {
     function run() {
-        var persona = new person.Person.Person("Adrian", "Diaz", 2981);
+        var personCollection = new person.Person.University().getStudends();
+        jquery("#template").load("/templates/person.html", function () {
+            var template = jquery('#template').html();
+            var html = mustache.render(template, personCollection);
+            jquery('#message').html(html);
+        });
     }
     exports.run = run;
 });

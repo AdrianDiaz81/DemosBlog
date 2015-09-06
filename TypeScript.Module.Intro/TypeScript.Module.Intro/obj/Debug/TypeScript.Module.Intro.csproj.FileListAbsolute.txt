@@ -1,0 +1,6 @@
+C:\GitHub\DemosBlog\TypeScript.Module.Intro\TypeScript.Module.Intro\bin\TypeScript.Module.Intro.dll.config
+C:\GitHub\DemosBlog\TypeScript.Module.Intro\TypeScript.Module.Intro\bin\TypeScript.Module.Intro.dll
+C:\GitHub\DemosBlog\TypeScript.Module.Intro\TypeScript.Module.Intro\bin\TypeScript.Module.Intro.pdb
+C:\GitHub\DemosBlog\TypeScript.Module.Intro\TypeScript.Module.Intro\obj\Debug\TypeScript.Module.Intro.csprojResolveAssemblyReference.cache
+C:\GitHub\DemosBlog\TypeScript.Module.Intro\TypeScript.Module.Intro\obj\Debug\TypeScript.Module.Intro.dll
+C:\GitHub\DemosBlog\TypeScript.Module.Intro\TypeScript.Module.Intro\obj\Debug\TypeScript.Module.Intro.pdb

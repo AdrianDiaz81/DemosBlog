@@ -12,4 +12,20 @@ export module Person {
             this.logger.info("Estoy en el constructor");
         }
     }
+
+    export class University {
+        getStudends(): Array<Person> {
+            var persona1 = new Person("Adrian", "Diaz", 1981);
+            var persona2 = new Person("Alberto", "Diaz", 1979);
+            var persona3 = new Person("Santiago", "Porras", 1980);
+
+            var result: Array<Person> = new Array<Person>();
+            result.push(persona1);
+            result.push(persona2);
+            result.push(persona3);
+
+            return result;
+
+        }
+    }
 }
