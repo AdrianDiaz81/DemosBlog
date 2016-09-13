@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "demo-blog-angular-2-client-side-solution",
+    "id": "881339ea-6901-40a0-b863-dab9810cb1ec",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "demo-blog-angular-2.spapp"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "dc223f2e-5681-4fb4-ac82-1875a65e1315",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "dc223f2e-5681-4fb4-ac82-1875a65e1315",
+    "group": { "default": "Under Development" },
+    "title": { "default": "HelloAngular" },
+    "description": { "default": "Demo spfx with angular2" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "HelloAngular"
+    }
+  }]
+}

@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "demo-blog-angular-2",
+  "accessKey": "<!-- ACCESS KEY -->"
+}
