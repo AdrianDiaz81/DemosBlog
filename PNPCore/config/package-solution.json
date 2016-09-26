@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "pnp-core-client-side-solution",
+    "id": "3558ff38-2dc8-4d6c-8775-50bc2ccf239c",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/pnp-core.spapp"
+  }
+}
