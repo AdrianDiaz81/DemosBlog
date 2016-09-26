@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "2f066785-161f-4b00-a5c7-c49270a300aa",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "2f066785-161f-4b00-a5c7-c49270a300aa",
+    "group": { "default": "Under Development" },
+    "title": { "default": "PNPRest" },
+    "description": { "default": "Test Core JS" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "PNPRest"
+    }
+  }]
+}
